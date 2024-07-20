@@ -2,7 +2,7 @@
 
 ###### **Current version: v1.0.0**
 
-[![GitHub version](https://img.shields.io/badge/version-1.0.0-brightgreen.svg)](https://badge.fury.io/gh/bumuthu%2Ftodo-demo)
+[![GitHub version](https://img.shields.io/badge/version-1.0.0-brightgreen.svg)](https://badge.fury.io/gh/bumuthu%2Ftodo-list-app)
 
 
 ## Overview
