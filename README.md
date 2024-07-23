@@ -6,7 +6,12 @@
 
 
 ## Overview
-This project facilitates the management of your tasks with to-do lists.
+This project facilitates the management of your tasks with to-do lists. In this project, the following tech stack is used.
+
+- Lerna: `8.1.6`
+- NPM: `10.8.2`
+- Node: `20.10.0`
+- React: `17.0.2`
 
 
 ## Installation
